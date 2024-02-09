@@ -1,18 +1,19 @@
 <h1 align="center">Hello humans 👋, I am tam1m, an 🤖 Intelligent System enthusiast. 🌐</h1>
 
-###
-
-<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<p align="left">  I work with:<br><br>Intelligent System 🌐🤖<br>Robotics 🤖🔧<br>Autonomous System 🚗💡<br><br><br>  
-</p>
-<p align="left">  
-I have done various project related to Robotics, Intelligent systems and AI both hardware and software. I love doing what I do.  
-</p>
-
-###
+<div style="display: flex; align-items: center;">
+  <img align="left" height="200" src="https://i.imgflip.com/65efzo.gif" />
+  <div style="margin-left: 20px;">
+    <p align="left">  
+      I work with:<br><br>
+      Intelligent System 🌐🤖<br>
+      Robotics 🤖🔧<br>
+      Autonomous System 🚗💡<br><br><br>  
+    </p>
+    <p align="left">  
+      I have done various projects related to Robotics, Intelligent systems, and AI, both hardware and software. I love doing what I do.  
+    </p>
+  </div>
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />

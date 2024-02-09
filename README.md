@@ -6,8 +6,11 @@
 
 ###
 
-<p align="left">  I work with:<br><br>Intelligent System 🌐🤖<br>Robotics 🤖🔧<br>Autonomous System 🚗💡<br><br><br>sad</p>
-<p aligh="left> I have done various project related to Robotics, Intelligent systems and AI both hardware and software. I love doing what I do. </p> 
+<p align="left">  I work with:<br><br>Intelligent System 🌐🤖<br>Robotics 🤖🔧<br>Autonomous System 🚗💡<br><br><br>  
+</p>
+<p align="left">  
+I have done various project related to Robotics, Intelligent systems and AI both hardware and software. I love doing what I do.  
+</p>
 
 ###
 

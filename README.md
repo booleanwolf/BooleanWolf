@@ -1,6 +1,6 @@
 <h1 align="center">Hello humans 👋, I am tam1m, an 🤖 Intelligent System enthusiast. 🌐</h1>
 
-<div style="display: flex; align-items: center;">
+<div align="left">
   <img align="left" height="200" src="https://i.imgflip.com/65efzo.gif" />
   <div style="margin-left: 20px;">
     <p align="left">  

@@ -23,7 +23,7 @@
   </ul>
 </div>
 
-<div id="stats">
+<div id="stats" align="center">
   <h2>Stats</h2>
   <img src="https://streak-stats.demolab.com?user=BooleanWolf&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
   <br>

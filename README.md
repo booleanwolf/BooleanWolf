@@ -1,1 +1,6 @@
-### I am Tamim, also known as tam1m, work with ⚙️ Intelligent System ⚙️ focusing mainly on Robotics 🤖 and Autonomous system. Robotics and AI really fascinate me as these fields are growing rapidly. I am currently studying 🛠️ Mechanical Engineering 💡 in Bangladesh University of Engineering and Technology. So far I have worked with various project 🔬 implementing intelligent behaviour and moreover I am still learning more about intelligent system pushing myself to the boundary.👋
+### I am Tamim, also known as tam1m. 
+
+## My fields of Interest
+- ⚙️ Intelligent System
+- 🤖 Robotics
+- 🏎️ Autonomous system.

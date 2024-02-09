@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I work with:<br><br>Intelligent System 🌐🤖<br>Robotics 🤖🔧<br>Autonomous System 🚗💡<br><br><br>sad</p>
+<p align="left">  I work with:<br><br>Intelligent System 🌐🤖<br>Robotics 🤖🔧<br>Autonomous System 🚗💡<br><br><br>sad</p>
 
 ###
 
